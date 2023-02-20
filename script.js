@@ -1,0 +1,5 @@
+const converter = document.querySelector('#converter')
+const result = document.querySelector('.result')
+const btnConv = document.querySelector('.conv')
+const btnReset = document.querySelector('.reset')
+const btnChange = document.querySelector('.change')
